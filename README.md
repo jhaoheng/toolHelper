@@ -89,3 +89,10 @@
 - [soapui](https://www.soapui.org/about-soapui/what-is-soapui.html)
 - [swagger io](http://swagger.io/)
 - [postman](https://www.getpostman.com/)
+
+## 第三方線上應用
+- [Twilio](https://www.twilio.com/) : 透過 sms 的方式，進行各類型的交互溝通，如認證
+
+## markdown
+- [MOU](http://25.io/mou/)
+- [MARKDOWN](http://macdown.uranusjr.com/)
