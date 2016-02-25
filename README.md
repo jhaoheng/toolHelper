@@ -80,5 +80,8 @@
 	- [CodeCommit](https://aws.amazon.com/tw/codecommit/):可擴展性的 Git 儲存庫
 
 ## wiki
+- [gitbook](https://www.gitbook.com)
+- [wikimedia](https://www.wikimedia.org/)
+- [dokuwiki](https://www.dokuwiki.org/dokuwiki#)
 
 ## 專案管理
