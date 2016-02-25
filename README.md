@@ -69,10 +69,7 @@
 ## CI & CD
 - [circleci](https://circleci.com/)		: 線上版，第一個免費，後續每一個 $50/m (美元)
 - [jenkin](https://jenkins-ci.org/)		: 可自行安裝，也支援線上服務
-	- [【4大DevOps工具】持續整合軟體一哥 Jenkins](http://www.ithome.com.tw/news/99305) 
 - [官網](https://travis-ci.com/) / [Travis CI](https://travis-ci.org/) : 免安裝，線上服務
-	- [來試試看Travis CI的服務-- CI, Mocha, Chai and Node.js](http://hamisme.blogspot.tw/2013/08/travis-ci-ci-mocha-chai-and-nodejs.html)
-	- [Travis CI 與自動化 JavaScript 單元測試](http://josephj.com/entry.php?id=382)
 - [Gitlab CI](https://gitlab.com/help)	: 支援 gitlab 的套件
 - amazon
 	- [CodePipeline](https://aws.amazon.com/tw/codepipeline/):
