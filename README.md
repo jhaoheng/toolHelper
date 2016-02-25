@@ -28,8 +28,13 @@
 - [facebook analytic](https://developers.facebook.com/products/analytics/features)
 - [amplitude](https://amplitude.com/login?next=%2Fsettings)
 - [kissmetrics](https://www.kissmetrics.com/)
+- [Mixpanel](https://mixpanel.com/) : 用戶動態分析、行為漏斗模型、用戶活躍度、單用戶行為分析
 - [segment](https://segment.com/) : 整合系統
 - [growthhackers](https://growthhackers.com/welcome) : 社群討論
+- [userCycle](https://cohorts.astronomer.io/) : 統計到用戶分組、從分組到生命週期維護、從生命週期到分組實驗測試，各方面了解用戶行為，提升用戶的價值
+- [Customer.io](https://customer.io/) : 只做了整個分析過程中的某一點，生命週期郵件。一個產品的成功與否，關鍵在於看有多少忠誠的客戶，郵件互動就是為了製造忠誠的客戶。基於用戶的不同行為發送不同的郵件來互動，而這，就是 Customer.io 在解決的問題，專注在郵件互動這一塊。
+- [Optimize.ly](https://bitly.com/pages/landing/branded-short-domains-powered-by-bitly?bsd=optimize.ly) : A/B testing tool
+- [Unbounce](http://unbounce.com/) : A/B testing tool
 
 ## flow
 - [omnigraffle]()
@@ -96,3 +101,6 @@
 ## markdown
 - [MOU](http://25.io/mou/)
 - [MARKDOWN](http://macdown.uranusjr.com/)
+
+## web testing
+- [nibbler](http://nibbler.silktide.com/en_US/about) : 網站 seo/健康 檢測工具
