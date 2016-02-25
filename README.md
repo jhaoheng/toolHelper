@@ -8,6 +8,7 @@
 
 ## 語言
 - [ios study](https://github.com/Aufree/trip-to-iOS/blob/master/README.md)
+- [android study](https://github.com/Freelander/Android_Data)
 
 ## 代碼檢測
 - [rollbar](https://rollbar.com/) : 平台代碼檢測通知
