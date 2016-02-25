@@ -38,6 +38,23 @@
 ## Git
 - [learnGitBranching](http://pcottle.github.io/learnGitBranching/)
 - [git pro2](https://git-scm.com/book/en/v2)
+- gitlab
+	- 版本
+		- 線上 EE : 免費
+		- CE 下載版 : 免費
+		- EE 下載版 : 付費
+	- 優點 : 用線上 EE 版，功能全支援，免費， all free repo
+	- 缺點 : 官方公告，系統一直變慢，可能在 CI 會有明顯感受 
+- github
+	- 版本：線上版
+		- 免費：只支援 public repo
+		- 付費：依據 private repo 的數量
+- bitbucket
+	- 版本：線上版
+		- 免費：最高五個用戶
+		- 付費：依據用戶最高上限數量，每月付費
+- git / redmine / gitolite
+	- 自行安裝版本，缺點，擴充套件要自己找適當的
 
 ## 線上工具套件安裝中心 : 提供 redmine 等等雲端安裝工具
 - [bitnami](https://bitnami.com/)
