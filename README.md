@@ -17,7 +17,7 @@
 - [StatusCake](https://www.statuscake.com/)
 - [sentry](https://getsentry.com/welcome/)
 - [logstash](https://www.elastic.co/products/logstash)
-- [Slackbot](https://get.slack.help/hc/en-us/articles/202026038-Slackbot-your-assistant-notepad-programmable-bot) : 協調通知系統
+- [Slackbot](https://get.slack.help/hc/en-us/articles/202026038-Slackbot-your-assistant-notepad-programmable-bot) : 協調通知工具
 - [Nagios](https://www.nagios.org/) : The Industry Standard In IT Infrastructure Monitoring
 - [Munin](http://munin-monitoring.org/)
 - [statuspage](https://www.statuspage.io/)
