@@ -61,6 +61,8 @@
 - git / redmine / gitolite
 	- 自行安裝版本，缺點，擴充套件要自己找適當的
 
+- [gitignore 常用範例](https://github.com/github/gitignore)
+
 ## 線上工具套件安裝中心 : 提供 redmine 等等雲端安裝工具
 - [bitnami](https://bitnami.com/)
 
