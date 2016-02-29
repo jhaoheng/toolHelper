@@ -5,6 +5,7 @@
 - [tibame](https://www.tibame.com/q?pg=home_welcome&cx=22.20000)
 - [platzi](https://courses.platzi.com/)
 - [code school](https://www.codeschool.com/)
+- [awesome](https://github.com/sindresorhus/awesome)
 
 ## 語言
 - [ios study](https://github.com/Aufree/trip-to-iOS/blob/master/README.md)
