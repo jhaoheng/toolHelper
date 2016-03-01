@@ -98,6 +98,10 @@
 - [swagger io](http://swagger.io/)
 - [postman](https://www.getpostman.com/)
 - [paw](https://luckymarmot.com/paw) : $50 and it can trial
+- [slate](http://tripit.github.io/slate/)
+	- ex: [docs.travis-ci.com/api/](https://docs.travis-ci.com/api/?http#creating-a-temporary-github-token)
+	- ex: [clearbit.com/docs](https://clearbit.com/docs#errors-error-types-response-post-body)
+	- ex: [stripe.com/docs/api](https://stripe.com/docs/api#metadata)
 
 ## 第三方線上應用
 - [Twilio](https://www.twilio.com/) : 透過 sms 的方式，進行各類型的交互溝通，如認證
