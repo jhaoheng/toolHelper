@@ -102,6 +102,9 @@
 	- ex: [docs.travis-ci.com/api/](https://docs.travis-ci.com/api/?http#creating-a-temporary-github-token)
 	- ex: [clearbit.com/docs](https://clearbit.com/docs#errors-error-types-response-post-body)
 	- ex: [stripe.com/docs/api](https://stripe.com/docs/api#metadata)
+- [silk](https://github.com/matryer/silk):這個工具比較像是確保 API 文件與目前的 API 相同
+	- Silk 規範了在 Markdown 裡要測試的文字，然後用這樣測，`silk -silkurl=http://127.0.0.1:3000 example-test.md.silk`
+	- [說明_2](https://medium.com/@matryer/introducing-silk-markdown-driven-api-tests-1f8cfb0ef99a#.ol448z8wt)
 
 ## 第三方線上應用
 - [Twilio](https://www.twilio.com/) : 透過 sms 的方式，進行各類型的交互溝通，如認證
