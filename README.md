@@ -137,3 +137,9 @@
 ## Extract web data
 
 - [import.io](https://www.import.io/)
+
+## 共筆平台
+
+- [penflip](https://www.penflip.com/pricing)
+	- public : 免費 / private : 付費
+	- 多人共筆/markdown/版本控管/輸出:pdf,ePub,HTML
