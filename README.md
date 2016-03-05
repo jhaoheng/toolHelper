@@ -99,6 +99,8 @@
 ## restful api testing & display
 - [soapui](https://www.soapui.org/about-soapui/what-is-soapui.html)
 - [swagger io](http://swagger.io/)
+- [RAML]()
+- [strongloop](https://strongloop.com/)
 - [postman](https://www.getpostman.com/)
 - [paw](https://luckymarmot.com/paw) : $50 and it can trial
 - [slate](http://tripit.github.io/slate/) : 自架，支援 markdown，但不支援立即性的檢查，純為靜態頁面
@@ -109,6 +111,7 @@
 	- Silk 規範了在 Markdown 裡要測試的文字，然後用這樣測，`silk -silkurl=http://127.0.0.1:3000 example-test.md.silk`
 	- [說明_2](https://medium.com/@matryer/introducing-silk-markdown-driven-api-tests-1f8cfb0ef99a#.ol448z8wt)
 - [stoplight.io](https://stoplight.io/) : 獨立使用免費
+- [apiary.io](https://apiary.io/) : Work together to quickly design, prototype, document and test APIs，五個以內免費，可先用於測試
 
 ## 第三方線上應用
 - [Twilio](https://www.twilio.com/) : 透過 sms 的方式，進行各類型的交互溝通，如認證
