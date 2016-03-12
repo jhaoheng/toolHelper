@@ -154,5 +154,6 @@
 
 ## sketch
 
+- [sketch 中文網](http://www.sketchcn.com/)
 - [Git Sketch Plugin](http://mathieudutour.github.io/git-sketch-plugin/)
 - [sketch animatemate](http://animatemate.com/)
