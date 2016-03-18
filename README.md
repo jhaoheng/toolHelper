@@ -162,3 +162,10 @@
 ## security
 
 - [peekr](https://peekr.scalock.com/) : security scanning for your container images
+
+## 手機安裝檔測試工具
+
+- [appkitbox](https://appkitbox.com/en/testkit/)
+	- 共有多款手機可選擇
+	- 線上直接匯入 .jar / .ipa(需設定 device udid 才能安裝成功)
+	- 可拿到實體 notificaion token / gcm token，可推播
