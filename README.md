@@ -6,6 +6,7 @@
 - [platzi](https://courses.platzi.com/)
 - [code school](https://www.codeschool.com/)
 - [awesome](https://github.com/sindresorhus/awesome)
+- [xcode 說明書](https://developer.apple.com/library/ios/documentation/ToolsLanguages/Conceptual/Xcode_Overview/index.html#//apple_ref/doc/uid/TP40010215-CH24-SW1)
 
 ## 語言
 - [ios study](https://github.com/Aufree/trip-to-iOS/blob/master/README.md)
