@@ -169,3 +169,10 @@
 	- 共有多款手機可選擇
 	- 線上直接匯入 .jar / .ipa(需設定 device udid 才能安裝成功)
 	- 可拿到實體 notificaion token / gcm token，可推播
+
+## Proxy 工具
+- [Burp Suite](https://portswigger.net/burp/) : Proxy 工具
+	- 修改 HTTP Request，可修改自己送出的 ip	
+
+## 傳送檔案
+- [transfer.sh](https://github.com/dutchcoders/transfer.sh) : 傳送檔案給路人的好工具，可用網頁 or cmd 進行上傳與下載
