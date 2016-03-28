@@ -177,3 +177,6 @@
 
 ## 傳送檔案
 - [transfer.sh](https://github.com/dutchcoders/transfer.sh) : 傳送檔案給路人的好工具，可用網頁 or cmd 進行上傳與下載
+
+## 設計
+- [【设计谈】字体与排版](http://www.jianshu.com/p/d139cb264be9)
