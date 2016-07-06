@@ -111,7 +111,7 @@
 - [strongloop](https://strongloop.com/)
 - [postman](https://www.getpostman.com/)
 - [paw](https://luckymarmot.com/paw) : $50 and it can trial
-- [slate](http://tripit.github.io/slate/) : 自架，支援 markdown，但不支援立即性的檢查，純為靜態頁面
+- [slate](https://github.com/lord/slate) : 自架，支援 markdown，但不支援立即性的檢查，純為靜態頁面
 	- ex: [docs.travis-ci.com/api/](https://docs.travis-ci.com/api/?http#creating-a-temporary-github-token)
 	- ex: [clearbit.com/docs](https://clearbit.com/docs#errors-error-types-response-post-body)
 	- ex: [stripe.com/docs/api](https://stripe.com/docs/api#metadata)
