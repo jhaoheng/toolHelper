@@ -24,6 +24,7 @@
 - [statuspage](https://www.statuspage.io/)
 - [crashlytics](http://try.crashlytics.com/) : ios/android analytic & crash report，
 - [golden-layout](https://golden-layout.com/)
+- [paper trail](https://papertrailapp.com/)
 
 ## 團隊協調通知工具
 
@@ -121,6 +122,7 @@
 - [stoplight.io](https://stoplight.io/) : 獨立使用免費
 - [apiary.io](https://apiary.io/) : Work together to quickly design, prototype, document and test APIs，五個以內免費，可先用於測試
 - [kong](https://getkong.org/)
+- [api blueprint](https://apiblueprint.org/documentation/tutorial.html)
 
 ## 第三方線上應用
 - [Twilio](https://www.twilio.com/) : 透過 sms 的方式，進行各類型的交互溝通，如認證
