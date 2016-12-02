@@ -25,6 +25,7 @@
 - [crashlytics](http://try.crashlytics.com/) : ios/android analytic & crash report，
 - [golden-layout](https://golden-layout.com/)
 - [paper trail](https://papertrailapp.com/)
+- [logentries](https://logentries.com/)
 
 ## 團隊協調通知工具
 
@@ -124,8 +125,9 @@
 - [kong](https://getkong.org/)
 - [api blueprint](https://apiblueprint.org/documentation/tutorial.html)
 
-## 第三方線上應用
+## sms
 - [Twilio](https://www.twilio.com/) : 透過 sms 的方式，進行各類型的交互溝通，如認證
+- [clickatell](https://www.clickatell.com/test-our-sms-gateway/) : 
 
 ## markdown
 - [MOU](http://25.io/mou/)
@@ -222,7 +224,3 @@
 ## vpn
 
 - [tunnelbear](https://www.tunnelbear.com/)
-
-## log 
-
-- [sentry](https://docs.getsentry.com/on-premise/)
