@@ -27,9 +27,14 @@
 - [paper trail](https://papertrailapp.com/)
 - [logentries](https://logentries.com/)
 
-## 團隊協調通知工具
+## 團隊協調工具, 專案管理
+- [redmine](http://www.redmine.org/)
+- [asana](https://asana.com/)
+- [phabricator](http://phabricator.org/)
+	- Review / share Code、Host Git、Browse and Audit Source Code、Track bugs、Roadmap、CLI
 
 - [Slackbot](https://get.slack.help/hc/en-us/articles/202026038-Slackbot-your-assistant-notepad-programmable-bot) : 協調通知工具
+- [weekdone](https://weekdone.com/) : 任務每星期列表
 
 ## growth hacker
 - [facebook analytic](https://developers.facebook.com/products/analytics/features)
@@ -98,12 +103,6 @@
 - [gitbook](https://www.gitbook.com)
 - [wikimedia](https://www.wikimedia.org/)
 - [dokuwiki](https://www.dokuwiki.org/dokuwiki#)
-
-## 專案管理
-- [redmine](http://www.redmine.org/)
-- [asana](https://asana.com/)
-- [phabricator](http://phabricator.org/)
-	- Review / share Code、Host Git、Browse and Audit Source Code、Track bugs、Roadmap、CLI
 
 
 ## restful api testing & display
