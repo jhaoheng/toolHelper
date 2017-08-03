@@ -34,7 +34,7 @@
 	- Review / share Code、Host Git、Browse and Audit Source Code、Track bugs、Roadmap、CLI
 
 - [Slackbot](https://get.slack.help/hc/en-us/articles/202026038-Slackbot-your-assistant-notepad-programmable-bot) : 協調通知工具
-- [weekdone](https://weekdone.com/) : 任務每星期列表
+- [weekdone](https://weekdone.com/) : 任務每星期列表，要付費
 
 ## growth hacker
 - [facebook analytic](https://developers.facebook.com/products/analytics/features)
@@ -223,3 +223,7 @@
 ## vpn
 
 - [tunnelbear](https://www.tunnelbear.com/)
+
+## code crypt
+
+- https://github.com/del-xiong/screw-plus : 壓縮 php 的 code 轉成 binary，還可以被執行
