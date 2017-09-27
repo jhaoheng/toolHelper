@@ -124,6 +124,9 @@
 - [kong](https://getkong.org/)
 - [api blueprint](https://apiblueprint.org/documentation/tutorial.html)
 
+# api 轉換格式
+- https://apimatic.io/transformer : 我的目的是將 postman collection => swagger 的格式
+
 ## sms
 - [Twilio](https://www.twilio.com/) : 透過 sms 的方式，進行各類型的交互溝通，如認證
 - [clickatell](https://www.clickatell.com/test-our-sms-gateway/) : 
